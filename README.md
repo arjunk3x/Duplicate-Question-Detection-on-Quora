@@ -24,8 +24,7 @@ Gensim
 **Contribution:**
 Contributions to this project are welcome! If you have suggestions for improvements or new features, feel free to open an issue or submit a pull request.
 
-Logistic Regression Accuracy : 64.4 %
-Random Forest Classifier : 70.1 %
+**From the analysis, the optimal combination for achieving the best accuracy score is the use of random forest classifier model with Word2Vec for vectorisation.**
 
 ![Screenshot 2024-04-05 231319](https://github.com/arjunk3x/Duplicate-Question-Detection-on-Quora/assets/147756161/9fa27802-73bc-4a08-8def-f08aa907b83f)
 
